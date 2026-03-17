@@ -23,7 +23,7 @@ for (let i = 1; i <= totalPages; i += batchSize) {
                         res = await fetch(`https://backend.delhimetrorail.com/api/v2/en/lost_found_items/?page=${page}`,
                             {
                                 headers: {
-                                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36",
+                                    "User-Agent": "metro-lost-and-found-bot",
                                     "Accept": "application/json, text/plain, */*",
                                     "Accept-Language": "en-US,en;q=0.9",
                                     "Referer": "https://www.delhimetrorail.com/",
