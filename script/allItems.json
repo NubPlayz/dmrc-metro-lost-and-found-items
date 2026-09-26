@@ -45,6 +45,33 @@
     "receiving_time": "16:30:00"
   },
   {
+    "id": 26419,
+    "item_name": "HAND BAG WITH",
+    "description": "INCH TAPE, GRINDING BLADES, EARBUDS WITH CASE, CAP",
+    "quantity": "1",
+    "station": "JAMIA MILLIA ISLAMIA",
+    "receiving_date": "2026-09-18",
+    "receiving_time": "20:20:00"
+  },
+  {
+    "id": 26420,
+    "item_name": "EARBUD CASE WITH",
+    "description": "EARBUDS",
+    "quantity": "1",
+    "station": "JAMIA MILLIA ISLAMIA",
+    "receiving_date": "2026-09-18",
+    "receiving_time": "13:23:00"
+  },
+  {
+    "id": 26424,
+    "item_name": "WATER BOTTLE",
+    "description": "WATER BOTTLE",
+    "quantity": "1",
+    "station": "TAGORE GARDEN",
+    "receiving_date": "2026-09-18",
+    "receiving_time": "11:10:00"
+  },
+  {
     "id": 26391,
     "item_name": "LAPTOP BAG",
     "description": "EMPTY LAPTOP BAG",
@@ -115,6 +142,33 @@
     "station": "SECTOR - 34 NOIDA",
     "receiving_date": "2026-09-17",
     "receiving_time": "18:00:00"
+  },
+  {
+    "id": 26418,
+    "item_name": "BAG WITH",
+    "description": "OLD CLOTHES",
+    "quantity": "1",
+    "station": "KASHMERE GATE",
+    "receiving_date": "2026-09-17",
+    "receiving_time": "21:00:00"
+  },
+  {
+    "id": 26421,
+    "item_name": "WALLET WITH",
+    "description": "PAN CARD, DL, BANK CARD OF UDIT BHATT, CASH",
+    "quantity": "1",
+    "station": "GURU TEG BAHADUR NAGAR",
+    "receiving_date": "2026-09-17",
+    "receiving_time": "16:50:00"
+  },
+  {
+    "id": 26422,
+    "item_name": "POLYBAG WITH",
+    "description": "SKIRT",
+    "quantity": "1",
+    "station": "RAMAKRISHNA ASHRAM MARG",
+    "receiving_date": "2026-09-17",
+    "receiving_time": "12:30:00"
   },
   {
     "id": 26388,
@@ -245,11 +299,20 @@
   {
     "id": 26417,
     "item_name": "BAGPACK BAG  WITH",
-    "description": "SPECTACLES, CUTTER BLADE, INCHI TAPE, TIFFIN BOX, HVV,MASONRY STRING",
+    "description": "SPECTACLES, CUTTER BLADE, INCH TAPE, TIFFIN BOX, HVV,MASONRY STRING",
     "quantity": "1",
     "station": "SIKANDERPUR",
     "receiving_date": "2026-09-16",
     "receiving_time": "13:00:00"
+  },
+  {
+    "id": 26423,
+    "item_name": "POLYBAG WITH",
+    "description": "MCD PARKING T-SHIRT, PAPER ROLLS",
+    "quantity": "1",
+    "station": "KARKARDUMA COURT",
+    "receiving_date": "2026-09-16",
+    "receiving_time": "11:40:00"
   },
   {
     "id": 26378,
@@ -199465,68 +199528,5 @@
     "station": "JANAKPURI WEST",
     "receiving_date": "2022-07-29",
     "receiving_time": "12:00:00"
-  },
-  {
-    "id": 3795,
-    "item_name": "BAG",
-    "description": "PILLOW FOOT WEAR",
-    "quantity": null,
-    "station": "TILAK NAGAR",
-    "receiving_date": "2022-07-29",
-    "receiving_time": "15:00:00"
-  },
-  {
-    "id": 3799,
-    "item_name": "SANDAL",
-    "description": "",
-    "quantity": null,
-    "station": "JANPATH",
-    "receiving_date": "2022-07-29",
-    "receiving_time": "18:25:00"
-  },
-  {
-    "id": 3800,
-    "item_name": "UMBRELLA",
-    "description": "",
-    "quantity": null,
-    "station": "JANPATH",
-    "receiving_date": "2022-07-29",
-    "receiving_time": "20:25:00"
-  },
-  {
-    "id": 3801,
-    "item_name": "BOTTLE",
-    "description": "",
-    "quantity": null,
-    "station": "JANPATH",
-    "receiving_date": "2022-07-29",
-    "receiving_time": "20:25:00"
-  },
-  {
-    "id": 3809,
-    "item_name": "BAG",
-    "description": "JACKET POWER BANK BOWL WITH HANDLE",
-    "quantity": null,
-    "station": "MILLENNIUM CITY CENTRE GURUGRAM",
-    "receiving_date": "2022-07-29",
-    "receiving_time": "16:45:00"
-  },
-  {
-    "id": 3817,
-    "item_name": "LUNCH BOX",
-    "description": "",
-    "quantity": null,
-    "station": "MUNIRKA",
-    "receiving_date": "2022-07-29",
-    "receiving_time": "13:10:00"
-  },
-  {
-    "id": 3822,
-    "item_name": "PACKET OF PATCH PANEL",
-    "description": "",
-    "quantity": null,
-    "station": "VIDHAN SABHA",
-    "receiving_date": "2022-07-29",
-    "receiving_time": "10:30:00"
   }
 ]
