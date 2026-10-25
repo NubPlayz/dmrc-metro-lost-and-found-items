@@ -1,5 +1,14 @@
 [
   {
+    "id": 26821,
+    "item_name": "SILVER COLOUR RING",
+    "description": "SILVER COLOUR RING",
+    "quantity": "1",
+    "station": "DWARKA SECTOR - 8",
+    "receiving_date": "2026-10-22",
+    "receiving_time": "20:00:00"
+  },
+  {
     "id": 26789,
     "item_name": "BRACELET",
     "description": "BRACELET",
@@ -34,6 +43,114 @@
     "station": "RAJA NAHAR SINGH (BALLABHGARH)",
     "receiving_date": "2026-10-17",
     "receiving_time": "19:10:00"
+  },
+  {
+    "id": 26806,
+    "item_name": "THREE PHOTOS OF LAXMI GANESH JI, SPECTACLES WITH COVER",
+    "description": "IN MULTICOLOUR HANDBAG",
+    "quantity": "1",
+    "station": "RAMAKRISHNA ASHRAM MARG",
+    "receiving_date": "2026-10-17",
+    "receiving_time": "10:10:00"
+  },
+  {
+    "id": 26807,
+    "item_name": "WATER BOTTLE",
+    "description": "WATER BOTTLE",
+    "quantity": "1",
+    "station": "VISHWAVIDYALAYA",
+    "receiving_date": "2026-10-17",
+    "receiving_time": "13:10:00"
+  },
+  {
+    "id": 26810,
+    "item_name": "BLUE BACKPACK BAG, BLACK UMBRELLA, TWO WATER BOTTLE",
+    "description": "BLUE BACKPACK BAG, BLACK UMBRELLA, TWO WATER BOTTLE",
+    "quantity": "1",
+    "station": "VISHWAVIDYALAYA",
+    "receiving_date": "2026-10-17",
+    "receiving_time": "06:01:00"
+  },
+  {
+    "id": 26811,
+    "item_name": "BLUE UMBRELLA, BABY WATER BOTTLE",
+    "description": "BLUE UMBRELLA, BABY WATER BOTTLE",
+    "quantity": "1",
+    "station": "VISHWAVIDYALAYA",
+    "receiving_date": "2026-10-17",
+    "receiving_time": "21:05:00"
+  },
+  {
+    "id": 26812,
+    "item_name": "DRONE WITH REMOTE IN BLACK COVER",
+    "description": "DRONE WITH REMOTE IN BLACK COVER",
+    "quantity": "1",
+    "station": "YAMUNA VIHAR",
+    "receiving_date": "2026-10-17",
+    "receiving_time": "13:45:00"
+  },
+  {
+    "id": 26815,
+    "item_name": "OLD CLOTHES",
+    "description": "BLACK COLOUR CLOTH HANDBAG WITH",
+    "quantity": "1",
+    "station": "DWARKA SECTOR - 21",
+    "receiving_date": "2026-10-17",
+    "receiving_time": "13:20:00"
+  },
+  {
+    "id": 26816,
+    "item_name": "BLACK BAG",
+    "description": "BLACK BAG",
+    "quantity": "1",
+    "station": "NEW DELHI (Yellow & Airport Line)",
+    "receiving_date": "2026-10-17",
+    "receiving_time": "13:45:00"
+  },
+  {
+    "id": 26817,
+    "item_name": "BLACK BAG HAVING DIYA AND PHOTOS",
+    "description": "BLACK BAG HAVING DIYA AND PHOTOS",
+    "quantity": "1",
+    "station": "NEW DELHI (Yellow & Airport Line)",
+    "receiving_date": "2026-10-17",
+    "receiving_time": "13:45:00"
+  },
+  {
+    "id": 26818,
+    "item_name": "BLACK PAPER BAG WITH TWO HOT CASE, BROWN WALLET HAVING ID OF DIPAK UPADHYAY",
+    "description": "BLACK PAPER BAG WITH TWO HOT CASE, BROWN WALLET HAVING ID OF DIPAK UPADHYAY",
+    "quantity": "1",
+    "station": "HAUZ KHAS",
+    "receiving_date": "2026-10-17",
+    "receiving_time": "21:10:00"
+  },
+  {
+    "id": 26819,
+    "item_name": "BLUE TROLLEY BAG WITH OLD CLOTHES, BROKEN MOBILE",
+    "description": "BLUE TROLLEY BAG WITH OLD CLOTHES, BROKEN MOBILE",
+    "quantity": "1",
+    "station": "LAL QUILA",
+    "receiving_date": "2026-10-17",
+    "receiving_time": "13:00:00"
+  },
+  {
+    "id": 26820,
+    "item_name": "WRIST WATCH",
+    "description": "WRIST WATCH",
+    "quantity": "1",
+    "station": "AIRPORT (T-3)",
+    "receiving_date": "2026-10-17",
+    "receiving_time": "06:10:00"
+  },
+  {
+    "id": 26822,
+    "item_name": "01 CHARGER 01 POWER BANK",
+    "description": "01 CHARGER 01 POWER BANK",
+    "quantity": "1",
+    "station": "JANAKPURI WEST",
+    "receiving_date": "2026-10-17",
+    "receiving_time": "14:20:00"
   },
   {
     "id": 26794,
@@ -115,6 +232,60 @@
     "station": "UTTAM NAGAR EAST",
     "receiving_date": "2026-10-16",
     "receiving_time": "12:10:00"
+  },
+  {
+    "id": 26809,
+    "item_name": "STEEL WATER BOTTLE, LUNCH BOX",
+    "description": "PINK LADIES BAG HAVING",
+    "quantity": "1",
+    "station": "VISHWAVIDYALAYA",
+    "receiving_date": "2026-10-16",
+    "receiving_time": "21:56:00"
+  },
+  {
+    "id": 26813,
+    "item_name": "01 WATCH ,01 WATER BOTTLE",
+    "description": "01 WATCH ,01 WATER BOTTLE",
+    "quantity": "1",
+    "station": "BHAJANPURA",
+    "receiving_date": "2026-10-16",
+    "receiving_time": "21:50:00"
+  },
+  {
+    "id": 26814,
+    "item_name": "PLASTIC POLYTHENE WITH COSMETICS. WRIST WATCH",
+    "description": "PLASTIC POLYTHENE WITH COSMETICS. WRIST WATCH",
+    "quantity": "1",
+    "station": "BHAJANPURA",
+    "receiving_date": "2026-10-16",
+    "receiving_time": "21:50:00"
+  },
+  {
+    "id": 26823,
+    "item_name": "OLD CLOTHES,SUITS,LOWER ,PANT",
+    "description": "A GREY BAG HAVING",
+    "quantity": "1",
+    "station": "CHANDNI CHOWK",
+    "receiving_date": "2026-10-16",
+    "receiving_time": "21:30:00"
+  },
+  {
+    "id": 26826,
+    "item_name": "WATER BOTTLE",
+    "description": "WATER BOTTLE",
+    "quantity": "1",
+    "station": "SECTOR - 59 NOIDA",
+    "receiving_date": "2026-10-16",
+    "receiving_time": "20:40:00"
+  },
+  {
+    "id": 26827,
+    "item_name": "01 BLACK COLOUR WALLET HAVING A ADHAR CARD ,PAN CARD ,DEBIT CARD AND CASH",
+    "description": "BLACK COLOUR WALLET",
+    "quantity": "1",
+    "station": "SECTOR - 59 NOIDA",
+    "receiving_date": "2026-10-16",
+    "receiving_time": "20:40:00"
   },
   {
     "id": 26786,
@@ -286,6 +457,15 @@
     "station": "SECTOR - 52 NOIDA",
     "receiving_date": "2026-10-14",
     "receiving_time": "16:00:00"
+  },
+  {
+    "id": 26808,
+    "item_name": "WATER BOTTLE",
+    "description": "WATER BOTTLE",
+    "quantity": null,
+    "station": "VISHWAVIDYALAYA",
+    "receiving_date": "2026-10-14",
+    "receiving_time": "13:10:00"
   },
   {
     "id": 26739,
@@ -199348,185 +199528,5 @@
     "station": "AIRPORT (T-3)",
     "receiving_date": "2022-08-14",
     "receiving_time": "12:47:00"
-  },
-  {
-    "id": 4166,
-    "item_name": "POLYBAG WITH CLOTH AND NAILCUTTER",
-    "description": "",
-    "quantity": null,
-    "station": "VIDHAN SABHA",
-    "receiving_date": "2022-08-14",
-    "receiving_time": "23:40:00"
-  },
-  {
-    "id": 4169,
-    "item_name": "BAG WITH BOOKS",
-    "description": "",
-    "quantity": null,
-    "station": "JANAKPURI EAST",
-    "receiving_date": "2022-08-14",
-    "receiving_time": "13:40:00"
-  },
-  {
-    "id": 4173,
-    "item_name": "WALLET WITH DOCUMENTS OF UJJWAL SONI , METRO CARD AND CASH",
-    "description": "",
-    "quantity": null,
-    "station": "ADARSH NAGAR",
-    "receiving_date": "2022-08-14",
-    "receiving_time": "13:40:00"
-  },
-  {
-    "id": 4176,
-    "item_name": "TROLLEY BAG",
-    "description": "BKLANKET POTS",
-    "quantity": null,
-    "station": "SECTOR - 52 NOIDA",
-    "receiving_date": "2022-08-14",
-    "receiving_time": "13:20:00"
-  },
-  {
-    "id": 4179,
-    "item_name": "EARBUDS",
-    "description": "",
-    "quantity": null,
-    "station": "DWARKA SECTOR - 21",
-    "receiving_date": "2022-08-14",
-    "receiving_time": "12:50:00"
-  },
-  {
-    "id": 4183,
-    "item_name": "RING",
-    "description": "",
-    "quantity": null,
-    "station": "DILLI HAAT - INA",
-    "receiving_date": "2022-08-14",
-    "receiving_time": "07:30:00"
-  },
-  {
-    "id": 4184,
-    "item_name": "BANK CARD WATCH HEADPHONE OF NIDHI",
-    "description": "",
-    "quantity": null,
-    "station": "CHHATARPUR",
-    "receiving_date": "2022-08-14",
-    "receiving_time": "19:00:00"
-  },
-  {
-    "id": 4187,
-    "item_name": "BOTTLE",
-    "description": "",
-    "quantity": null,
-    "station": "RAJIV CHOWK",
-    "receiving_date": "2022-08-14",
-    "receiving_time": "22:10:00"
-  },
-  {
-    "id": 4188,
-    "item_name": "POLY BAG",
-    "description": "KURTA PAYJAMA",
-    "quantity": null,
-    "station": "RAJIV CHOWK",
-    "receiving_date": "2022-08-14",
-    "receiving_time": "22:10:00"
-  },
-  {
-    "id": 4194,
-    "item_name": "HELMET",
-    "description": "",
-    "quantity": null,
-    "station": "SAMAYPUR BADLI",
-    "receiving_date": "2022-08-14",
-    "receiving_time": "20:00:00"
-  },
-  {
-    "id": 4195,
-    "item_name": "CARRY BAG",
-    "description": "SHOES SLIPPERS",
-    "quantity": null,
-    "station": "SAMAYPUR BADLI",
-    "receiving_date": "2022-08-14",
-    "receiving_time": "16:25:00"
-  },
-  {
-    "id": 4221,
-    "item_name": "BAG",
-    "description": "CLOTHS PAN GOGGLES CHARGER",
-    "quantity": null,
-    "station": "DWARKA SECTOR - 10",
-    "receiving_date": "2022-08-14",
-    "receiving_time": "09:00:00"
-  },
-  {
-    "id": 4112,
-    "item_name": "UMBRELLA",
-    "description": "",
-    "quantity": "1",
-    "station": "SHADIPUR",
-    "receiving_date": "2022-08-13",
-    "receiving_time": "13:05:00"
-  },
-  {
-    "id": 4114,
-    "item_name": "POLYBAG WITH CLOTHES AND STUDY NOTES",
-    "description": "",
-    "quantity": "1",
-    "station": "CENTRAL SECRETARIAT",
-    "receiving_date": "2022-08-13",
-    "receiving_time": "06:35:00"
-  },
-  {
-    "id": 4116,
-    "item_name": "HELMET",
-    "description": "",
-    "quantity": "1",
-    "station": "TIS HAZARI",
-    "receiving_date": "2022-08-13",
-    "receiving_time": "07:15:00"
-  },
-  {
-    "id": 4117,
-    "item_name": "WATER BOTTLE",
-    "description": "",
-    "quantity": "2",
-    "station": "M.G. ROAD",
-    "receiving_date": "2022-08-13",
-    "receiving_time": "21:00:00"
-  },
-  {
-    "id": 4127,
-    "item_name": "CASH",
-    "description": "",
-    "quantity": "1",
-    "station": "SHADIPUR",
-    "receiving_date": "2022-08-13",
-    "receiving_time": "17:50:00"
-  },
-  {
-    "id": 4128,
-    "item_name": "TRIPOD",
-    "description": "",
-    "quantity": "1",
-    "station": "NOIDA ELECTRONIC CITY",
-    "receiving_date": "2022-08-13",
-    "receiving_time": "18:10:00"
-  },
-  {
-    "id": 4137,
-    "item_name": "CASH",
-    "description": "",
-    "quantity": "1",
-    "station": "NAWADA",
-    "receiving_date": "2022-08-13",
-    "receiving_time": "06:30:00"
-  },
-  {
-    "id": 4143,
-    "item_name": "PURSE WITH DOCUMENTS OF TANUSH P SHEKHAR",
-    "description": "",
-    "quantity": "1",
-    "station": "DWARKA SECTOR - 10",
-    "receiving_date": "2022-08-13",
-    "receiving_time": "06:00:00"
   }
 ]
