@@ -18,6 +18,15 @@
     "receiving_time": "01:20:00"
   },
   {
+    "id": 27123,
+    "item_name": "SIDE SLING BAG WITH",
+    "description": "EARBUDS, ARTIFICIAL JEWELLERY, WRIST WATCH, CASH",
+    "quantity": "1",
+    "station": "NEW DELHI (Yellow & Airport Line)",
+    "receiving_date": "2026-11-11",
+    "receiving_time": "18:39:00"
+  },
+  {
     "id": 27059,
     "item_name": "ANKLET",
     "description": "ANKLET",
@@ -199519,14 +199528,5 @@
     "station": "RAJIV CHOWK",
     "receiving_date": "2022-08-27",
     "receiving_time": "20:50:00"
-  },
-  {
-    "id": 4486,
-    "item_name": "HALF PANT",
-    "description": "",
-    "quantity": null,
-    "station": "RAJIV CHOWK",
-    "receiving_date": "2022-08-27",
-    "receiving_time": "00:30:00"
   }
 ]
