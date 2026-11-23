@@ -81,6 +81,15 @@
     "receiving_time": "10:00:00"
   },
   {
+    "id": 27222,
+    "item_name": "HAND BAG WITH",
+    "description": "LADIES SUIT, SWEAT SHIRT,  SWEATER, POWER BANK",
+    "quantity": "1",
+    "station": "KASHMERE GATE",
+    "receiving_date": "2026-11-14",
+    "receiving_time": "20:50:00"
+  },
+  {
     "id": 27184,
     "item_name": "WRIST WATCH",
     "description": "WRIST WATCH",
@@ -199519,14 +199528,5 @@
     "station": "SECTOR - 52 NOIDA",
     "receiving_date": "2022-09-01",
     "receiving_time": "20:30:00"
-  },
-  {
-    "id": 4605,
-    "item_name": "SOFT TOY",
-    "description": "",
-    "quantity": null,
-    "station": "CIVIL LINES",
-    "receiving_date": "2022-09-01",
-    "receiving_time": "21:30:00"
   }
 ]
